@@ -1,4 +1,4 @@
-﻿# Crypto-Prices-in-Python-with-CoinGecko-API
+﻿# **Crypto-Prices-in-Python-with-CoinGecko-API**
 
 Crypto Price Analysis
 

@@ -11,3 +11,7 @@ This project analyzes and plots the historical price data of cryptocurrencies us
 
 
 Install the required library using pip:
+
+```
+pip install pycoingecko
+```

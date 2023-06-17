@@ -15,3 +15,7 @@ Install the required library using pip:
 ```
 pip install pycoingecko
 ```
+## Acknowledgments
++ CoinGecko for providing the cryptocurrency price data.
++ Seaborn and Matplotlib for data visualization.
++ Pycoingecko library for accessing the CoinGecko API.

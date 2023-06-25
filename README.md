@@ -7,7 +7,8 @@ This project analyzes and plots the historical price data of cryptocurrencies us
 
 ## Prerequisites
 + Python 3
-+ pycoingecko 
++ pycoingecko
++ CoinGecko API
 
 
 Install the required library using pip:
